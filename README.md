@@ -11,4 +11,4 @@ The dashboard contains the following charts:
 7. **Parallel Categories** provides more analysis detail including neighborhood data.
 8. **Neighborhood Map** provides a unique analytical selection process by visualizing the San Francisco neighborhoods on a map.
 
-Within the dashboard notebook, the plots will render by executing the cells. They will be organized by tabular selection as well as by an _All Plots_ option to view every chart in one column.
+Within the dashboard notebook, the plots will render by executing the cells. They will be organized by _tabular selection_ as well as by an _All Plots_ tabular option to view every chart in one column.
