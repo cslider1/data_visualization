@@ -1,7 +1,7 @@
 ## San Francisco Rental Analysis with Visualization
 
 The attached two notebooks contain a rental analysis for the San Francisco area from 2010 - 2016 and a corresponding dashboard panel for visual reference.
-The dashboard contains the following charts:
+The dashboard utilizes several data visualization tools and contains the following charts:
 1. **Housing Units** tracks the number of housing units in San Francisco.
 2. **Average Gross Rents** charts the average gross rents.
 3. **Average Sales Price** charts the average sales price per square foot.
